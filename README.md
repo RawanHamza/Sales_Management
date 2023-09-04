@@ -108,4 +108,12 @@ ORDER BY
 
 ## Data Model
 Here's a Screenshot of how we organized the data in Power BI after cleaning and getting it ready. This Screenshot also shows how we connected FACT_Budget with FACT_InternetSales and some other important tables.
+![image](https://github.com/RawanHamza/Sales_Management/assets/62294577/9f463087-f820-4036-bdfa-94486c98cdf8)
+
+## Sales Management Dashboard
+The completed sales management dashboard has one main page that works as an overview dashboard. Additionally, there are two other pages that concentrate on bringing together tables for important information and creating visuals to display sales trends over time, for individual customers, and for products.
+
+### Click the picture to open the dashboard and try it out!
+[![image](https://github.com/RawanHamza/Sales_Management/assets/62294577/08c6c0f0-93ee-43be-973e-d7754c59f169)](https://www.novypro.com/project/sales-management-3)
+
 
