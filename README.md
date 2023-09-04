@@ -113,5 +113,7 @@ Here's a Screenshot of how we organized the data in Power BI after cleaning and 
 ## Sales Management Dashboard
 The completed sales management dashboard has one main page that works as an overview dashboard. Additionally, there are two other pages that concentrate on bringing together tables for important information and creating visuals to display sales trends over time, for individual customers, and for products.
 
-### Click the picture to open the dashboard and try it out!
-[![image](https://github.com/RawanHamza/Sales_Management/assets/62294577/08c6c0f0-93ee-43be-973e-d7754c59f169)](https://www.novypro.com/project/sales-management-3)
+### [Click Here to open the dashboard and try it out!](https://www.novypro.com/project/sales-management-3)
+
+[![image](https://github.com/RawanHamza/Sales_Management/assets/62294577/08c6c0f0-93ee-43be-973e-d7754c59f169)]
+
