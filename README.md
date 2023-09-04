@@ -1,4 +1,4 @@
-![image](https://github.com/RawanHamza/Sales_Management/assets/62294577/069e0aea-1413-4d74-b64c-54575ec5fd13)![image](https://github.com/RawanHamza/Sales_Management/assets/62294577/83e38956-536f-4aaf-894e-0d5d8467542d)# Sales management Data Cleaning and Dashboard
+# Sales management Data Cleaning and Dashboard
 
 ## Business Request & User Storeies
 The business initiated this data analyst project with a request for an executive sales report tailored to meet the needs of sales managers. In response to this request, we formulated the 
@@ -114,3 +114,4 @@ Here's a Screenshot of how we organized the data in Power BI after cleaning and 
 The completed sales management dashboard has one main page that works as an overview dashboard. Additionally, there are two other pages that concentrate on bringing together tables for important information and creating visuals to display sales trends over time, for individual customers, and for products.
 
 ### Click the picture to open the dashboard and try it out!
+[![image](https://github.com/RawanHamza/Sales_Management/assets/62294577/08c6c0f0-93ee-43be-973e-d7754c59f169)](https://www.novypro.com/project/sales-management-3)
