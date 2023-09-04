@@ -115,5 +115,5 @@ The completed sales management dashboard has one main page that works as an over
 
 ### [Click Here to open the dashboard and try it out!](https://www.novypro.com/project/sales-management-3)
 
-[![image](https://github.com/RawanHamza/Sales_Management/assets/62294577/08c6c0f0-93ee-43be-973e-d7754c59f169)]
+![image](https://github.com/RawanHamza/Sales_Management/assets/62294577/08c6c0f0-93ee-43be-973e-d7754c59f169)
 
